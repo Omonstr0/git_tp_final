@@ -5,7 +5,7 @@
 Bienvenue sur le README du TP final de votre cours d'initiation à Git et Github !
 
 Ce README est le seul et unique énoncé dont vous avez besoin pour réaliser le TP.
-Prenez donc bien soin de le comprendre et de le lire **attentivement**.
+enez donc bien soin de le comprendre et de le lire **attentivement**.
 
 Voici les règles de base :
 
@@ -37,11 +37,11 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 > Ce sont ces informations qui me permettront de vous noter, si vous ne vous présentez pas ici, je ne pourrais pas vous noter :)
 
 Noms des étudiants : 
-* Nom Prénom
-* Nom Prénom
-* Nom Prénom
+* HABACHE Rami
+* PIERRE Lucas
+* PIERRE Lucas
 
-Date du jour : 00/00/0000
+Date du jour : 17/12/2021
 
 Tout est ok ? 
 Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** dépôt donc, puisque vous l'avez forké).
